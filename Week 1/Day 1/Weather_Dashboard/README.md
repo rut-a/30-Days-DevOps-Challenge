@@ -1,8 +1,8 @@
-30 Days DevOps Challenge - Weather Dashboard
-Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
+#30 Days DevOps Challenge - Weather Dashboard
+##Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
 
-Weather Data Collection System - DevOps Day 1 Challenge
-Project Overview
+##Weather Data Collection System - DevOps Day 1 Challenge
+###Project Overview
 This project is a Weather Data Collection System that demonstrates core DevOps principles by combining:
 
 External API Integration (OpenWeather API)
@@ -12,7 +12,7 @@ Version Control (Git)
 Python Development
 Error Handling
 Environment Management
-Features
+###Features
 Fetches real-time weather data for multiple cities
 Displays temperature (°F), humidity, and weather conditions
 Automatically stores weather data in AWS S3
@@ -40,7 +40,7 @@ weather-dashboard/
 ## Setup Instructions
 1. Clone the repository:
 --bash
-git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
+git clone https://github.com/rut-a/30-Days-DevOps-Challenge.git
 
 3. Install dependencies:
 bashCopypip install -r requirements.txt
