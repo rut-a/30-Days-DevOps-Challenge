@@ -9,3 +9,7 @@ devops/
 *.pyc
 *.pyo
 __pycache__/
+
+.zip
+data/
+
